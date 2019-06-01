@@ -1,3 +1,8 @@
+; To compile and build a binary using nasm and ld
+
+; $ nasm -f elf32 -o exer1.o exer1.asm
+; $ ld -m elf_i386 exer1.o -o exer1
+
 global _start
 
 section .data
