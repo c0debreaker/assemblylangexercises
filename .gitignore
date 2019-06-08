@@ -1,2 +1,16 @@
 .DS_Store
 .vscode
+Backups
+Cache
+CachedData
+CachedExtensions
+Cookies*
+Local*
+logs
+User
+Preferences
+languagepacks.json
+machineid
+storage.json
+.gdb_history
+peda-session*
