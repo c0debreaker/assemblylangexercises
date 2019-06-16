@@ -14,3 +14,4 @@ machineid
 storage.json
 .gdb_history
 peda-session*
+*.o
